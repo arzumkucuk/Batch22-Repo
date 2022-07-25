@@ -1,1 +1,8 @@
 more great
+more stuff has been added
+we are cloning
+remote to local
+making somme changes
+committing the changes
+pushing it back to
+remote repositary
