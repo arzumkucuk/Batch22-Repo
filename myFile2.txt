@@ -6,3 +6,4 @@ making somme changes
 committing the changes
 pushing it back to
 remote repositary
+FILE more stuff here
