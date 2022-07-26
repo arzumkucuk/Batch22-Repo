@@ -5,5 +5,5 @@ remote to local
 making somme changes
 committing the changes
 pushing it back to
-remote repositary
+remote repository
 FILE more stuff here
